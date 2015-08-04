@@ -3,6 +3,9 @@
 
 # sbt specific
 .cache
+.project
+.classpath
+.cache-main
 .history
 .lib/
 dist/*
